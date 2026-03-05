@@ -7,7 +7,7 @@
  The project reads the breast cancer dataset that is within "Scikit learn" that contains multiple columns.
  The goal is to generate machine learning models and then determine which of the models is the most accurate/effective in its predictions.
   
- - Key analyses include:
+Key analyses include:
   - Extracted the data (X) and target (y).
   - Splited the data into 80% training, and 20% test_size.
   - Created a Logistic regression, K-nearest neighbor, and Random forest models.
