@@ -34,17 +34,20 @@ The project can be classed into 4 diffrent areas:
 ### Setting Up Models
 
 **Attributes:**
+
 **Methods:**
 
 ---
 ### Predicting Scores
 **Attributes:**
+
 **Methods:**
 
 ---
 ### Results
 
 **Attributes:**
+
 **Methods:**
 
 ## Limitations
