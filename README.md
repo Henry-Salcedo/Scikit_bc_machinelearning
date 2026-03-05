@@ -16,13 +16,35 @@ Key analyses include:
 
 ---
 ## Class Design/Implementation
+The project can be classed into 4 diffrent areas:
+- Creating the data split
+- Setting up models
+- Prediction scores
+- Print out results (accuracy, percision, etc.)
 
+## Class Attributes and Methods
 
+### Data Split
 
+**Attributes:**
 
+**Methods:**
 
-## Class Attributes
+---
+### Setting Up Models
 
-## Methods
+**Attributes:**
+**Methods:**
+
+---
+### Predicting Scores
+**Attributes:**
+**Methods:**
+
+---
+### Results
+
+**Attributes:**
+**Methods:**
 
 ## Limitations
