@@ -74,11 +74,13 @@ The project can be classed into 5 diffrent areas:
 - f1_score(y_test, predictions) - Calculates F1 score
 - Then printed f1_scores aftered calculated.
 
+---
 ## Limitations
 - I limited myself from what I learn in a class related to the project (ex- not performing any scaled featues, or cross-validation).
 - Included with the limit of class related, I also limited myself from generating models since such area has not been disscussed (Once more such a thing is possible now, however theses limits are to test what the library can do).
 - Focused solely on using sklearn to establish more understanding on its usage. 
 
+---
 ## Post Implementation/Thoughts
 Theses are some of the implementation/Thoughts post methods to highlight the areas that I imporove and/or disscussed upon the inital methods:
 - Messed with the n-neigbors = 5 - After reviewing other areas like 3, or 13 they did little to improve more than 5, if I could uses something like StandardScaler , and gridsearch, then thoses would greatly help determine the best possible k value.
